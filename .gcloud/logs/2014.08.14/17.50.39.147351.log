@@ -1,0 +1,12 @@
+2014-08-14 17:50:39,159 DEBUG    root            Metrics are disabled.
+2014-08-14 17:50:39,165 DEBUG    root            Running gcloud.auth.git-helper with _Args({'format': None,
+ 'h': None,
+ 'help': None,
+ 'method': 'get',
+ 'project': None,
+ 'quiet': None,
+ 'shell': None,
+ 'user_output_enabled': None,
+ 'verbosity': None}).
+2014-08-14 17:50:39,180 INFO     oauth2client.client Refreshing access_token
+2014-08-14 17:50:40,478 INFO     oauth2client.client Refreshing access_token
